@@ -1,0 +1,6 @@
+{
+  "AppName":"沪博",
+  "AppId":"com.alibaba.hubo",
+  "SplashText":"Hello\nHubo",
+  "WeexBundle":"app.weex.js"
+}
