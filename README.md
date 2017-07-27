@@ -1,4 +1,4 @@
-# weex-vue-starter-kit
+# weex-sm-demo
 
 > 吐槽：复制粘贴了一波 weex-toolkit 的配置
 
